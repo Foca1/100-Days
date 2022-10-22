@@ -5,5 +5,8 @@ Contains personal projects, exercises, everything.</h2>
     <li>
         <a href="https://github.com/Foca1/WeatherApp">WeatherApp</a>
     </li>
+    <li>
+        <a href="https://github.com/Foca1/100-Days/blob/main/python/codeWars.py"> CodeWars Problem</a>
+    </li>
 </ol>
 
