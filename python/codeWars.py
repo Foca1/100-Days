@@ -8,10 +8,10 @@ def format_duration(seconds, str):
                 seconds -= seconds
             else:
                 str += f"{int(seconds/60)} minutes"
-                seconds -= 60 
+                seconds -= 60 * (seconds/60)
         else:
             str += f"{int(seconds/3600)} hours"
-            seconds -= 3600
+            seconds -= 3600 * (seconds/60)
 
     return str
 
