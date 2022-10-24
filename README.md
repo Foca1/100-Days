@@ -8,5 +8,8 @@ Contains personal projects, exercises, everything.</h2>
     <li>
         <a href="https://github.com/Foca1/100-Days/blob/main/python/codeWars.py"> CodeWars Problem</a>
     </li>
+    <li>
+        <a href="https://github.com/Foca1/100-Days/blob/main/python/codeWars.py"> Still on CodeWars Problem :\</a>
+    </li>
 </ol>
 
