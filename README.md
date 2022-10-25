@@ -1,4 +1,4 @@
-<h1> 100 Days </h1>
+<h1> 100 Days of code</h1>
 <h2>A repository to put all codes that i make in 100 days.<br><br>
 Contains personal projects, exercises, everything.</h2>
 <ol>
