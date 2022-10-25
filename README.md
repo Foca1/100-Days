@@ -3,9 +3,9 @@
 Contains personal projects, exercises, everything.</h2>
 <ol>
     <li>
-        <p>21/20/22
-            <a href="https://github.com/Foca1/WeatherApp">WeatherApp
-            </a>
+        <p>
+            <a href="https://github.com/Foca1/WeatherApp">WeatherApp</a>
+            21/20/22
         </p>
     </li>
     <li>
