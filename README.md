@@ -26,4 +26,10 @@ Contains personal projects, exercises, everything.</h2>
             24/10/22
         </p>
     </li>
+    <li>
+        <p>
+            <a href="https://github.com/Foca1/100-Days/blob/main/python/codeWars.py"> Solved CodeWars Problem </a>
+            24/10/22
+        </p>
+    </li>
 </ol>
