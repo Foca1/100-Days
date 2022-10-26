@@ -32,4 +32,10 @@ Contains personal projects, exercises, everything.</h2>
             25/10/22
         </p>
     </li>
+        <li>
+        <p>
+            <a href="https://github.com/Foca1/WeatherApp"> WeatherApp - </a>
+            26/10/22
+        </p>
+    </li>
 </ol>
