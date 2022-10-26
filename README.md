@@ -28,8 +28,8 @@ Contains personal projects, exercises, everything.</h2>
     </li>
     <li>
         <p>
-            <a href="https://github.com/Foca1/100-Days/blob/main/python/codeWars.py"> Solved CodeWars Problem </a>
-            24/10/22
+            <a href="https://github.com/Foca1/100-Days/blob/main/python/codeWars.py"> Solved CodeWars Problem w dart </a>
+            25/10/22
         </p>
     </li>
 </ol>
