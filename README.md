@@ -38,4 +38,10 @@ Contains personal projects, exercises, everything.</h2>
             26/10/22
         </p>
     </li>
+    <li>
+        <p>
+            <a href="https://github.com/Foca1/100-Days/blob/main/dart/lib/hex_to_rgb.dart"> Solved CodeWars Problem with Dart - </a>
+            27/10/22
+        </p>
+    </li>
 </ol>
