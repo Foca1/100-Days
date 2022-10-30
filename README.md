@@ -44,4 +44,10 @@ Contains personal projects, exercises, everything.</h2>
             27/10/22
         </p>
     </li>
+     <li>
+        <p>
+            <a href="https://github.com/Foca1/Codewars-Problems/blob/main/dart/lib/tribonacci_sequence.dart"> Solved CodeWars Problem with Dart - </a>
+            27/10/22
+        </p>
+    </li>
 </ol>
