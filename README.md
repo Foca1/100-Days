@@ -56,4 +56,10 @@ Contains personal projects, exercises, everything.</h2>
             02/11/22
         </p>
     </li>
+     <li>
+        <p>
+            <a href="https://github.com/Foca1/Codewars-Problems/blob/main/dart/lib/valid_parentheses.dart"> Solved CodeWars Problem with Dart - </a>
+            04/11/22
+        </p>
+    </li
 </ol>
